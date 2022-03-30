@@ -1,0 +1,13 @@
+{
+  "name": "fun-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "adapter.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "dependencies": {
+    "json-schema": "0.3"
+  },
+  "license": "MIT"
+}
